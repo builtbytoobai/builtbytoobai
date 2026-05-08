@@ -36,13 +36,13 @@ Building AI-powered tools and creative systems.
 
 ## 📌 Featured Projects
 
-### AI Lyric Generator
+### [AI Lyric Generator](https://github.com/builtbytoobai/AI-Lyric-Generator)
 A Python project that generates lyric ideas based on mood.
 
-### AI Prompt Library
+### [AI Prompt Library](https://github.com/builtbytoobai/AI-Prompt-Library)
 A curated collection of AI prompts for creativity, productivity, coding, and storytelling.
 
-### Creative AI Experiments
+### [Creative AI Experiments](https://github.com/builtbytoobai/creative-ai-experiments)
 A sandbox for small experiments exploring AI, creativity, storytelling, and code.
 
 ---
