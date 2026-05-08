@@ -25,6 +25,15 @@ Building AI-powered tools and creative systems.
 
 ---
 
+## 🚧 Now Building
+
+- Improving small Python projects
+- Building a personal AI prompt library
+- Exploring creative AI workflows
+- Learning Git, GitHub, and developer workflow
+
+---
+
 ## 📌 Featured Projects
 
 ### AI Lyric Generator
