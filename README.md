@@ -40,7 +40,7 @@ Building AI-powered tools and creative systems.
 A Python + Gemini AI project that generates lyric ideas based on mood, theme, and style.
 
 ### [AI Prompt Library](https://github.com/builtbytoobai/AI-Prompt-Library)
-A curated collection of AI prompts for creativity, productivity, coding, and storytelling.
+A curated collection of AI prompts and workflows for creativity, coding, project planning, and model-agnostic AI development.
 
 ### [Creative AI Experiments](https://github.com/builtbytoobai/creative-ai-experiments)
 A sandbox for small experiments exploring AI, creativity, storytelling, and code.
