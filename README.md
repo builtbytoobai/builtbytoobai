@@ -25,10 +25,16 @@ Building AI-powered tools and creative systems.
 
 ---
 
-## 📂 Projects
+## 📌 Featured Projects
 
 ### AI Lyric Generator
-A small Python project that generates lyric ideas based on mood.
+A Python project that generates lyric ideas based on mood.
+
+### AI Prompt Library
+A curated collection of AI prompts for creativity, productivity, coding, and storytelling.
+
+### Creative AI Experiments
+A sandbox for small experiments exploring AI, creativity, storytelling, and code.
 
 ---
 
