@@ -9,24 +9,26 @@ Building AI-powered tools and creative systems.
 ## 🧠 What I'm about
 
 - 🤖 AI experiments & automation
-- 🎨 Creative tech
+- 🎨 Creative tech and storytelling
 - ⚡ Building fast, learning faster
 - 🛠 Shipping over perfection
+- 👨‍💻 Learning by building
 
 ---
 
 ## 🔧 Current focus
 
 - Exploring AI workflows
-- Building useful tools
+- Building AI-powered tools
 - Combining creativity + code
-- Learning in public
+- Turning ideas into working projects
 
 ---
 
 ## 📂 Projects
 
-More coming soon.
+### AI Lyric Generator
+A small Python project that generates lyric ideas based on mood.
 
 ---
 
