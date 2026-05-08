@@ -37,7 +37,7 @@ Building AI-powered tools and creative systems.
 ## 📌 Featured Projects
 
 ### [AI Lyric Generator](https://github.com/builtbytoobai/AI-Lyric-Generator)
-A Python project that generates lyric ideas based on mood.
+A Python + Gemini AI project that generates lyric ideas based on mood, theme, and style.
 
 ### [AI Prompt Library](https://github.com/builtbytoobai/AI-Prompt-Library)
 A curated collection of AI prompts for creativity, productivity, coding, and storytelling.
